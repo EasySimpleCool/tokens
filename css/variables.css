@@ -1,0 +1,14 @@
+/**
+ * Do not edit directly
+ * Generated on Thu, 03 Mar 2022 17:41:31 GMT
+ */
+
+:root {
+  --global-display1: $base * 3;
+  --global-base: 16;
+  --global-display2: $base * 2;
+  --global-display3: $base * 1;
+  --global-dark1: #000;
+  --global-light1: #fff;
+  --global-primary1: #001cf2;
+}
