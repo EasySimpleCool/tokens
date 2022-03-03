@@ -4,8 +4,12 @@
   text-align: center;
 }
 
-h1 {
-  color: $global-primary1;
+.back {
+  color: $global-back1
+}
+
+.front {
+  color: $global-front1
 }
 
 .App-logo {
@@ -20,7 +24,7 @@ h1 {
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: $global-back1;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
