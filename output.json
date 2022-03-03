@@ -1,4 +1,12 @@
 {
+  "dark1": {
+    "value": "#fff",
+    "type": "color"
+  },
+  "light1": {
+    "value": "#000",
+    "type": "color"
+  },
   "display1": {
     "value": 48,
     "type": "fontSizes"
@@ -14,14 +22,6 @@
   "display3": {
     "value": 16,
     "type": "fontSizes"
-  },
-  "dark1": {
-    "value": "#000",
-    "type": "color"
-  },
-  "light1": {
-    "value": "#fff",
-    "type": "color"
   },
   "primary1": {
     "value": "#001cf2",
