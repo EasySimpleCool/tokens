@@ -5,33 +5,25 @@
 }
 
 .back {
-  color: $global-back1
+  color: $back1
 }
 
 .front {
-  color: $global-front1
+  color: $front1
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+h1 {
+  
 }
 
 .App-header {
-  background-color: $global-back1;
+  background-color: $back1;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
 }
 
 .App-link {
