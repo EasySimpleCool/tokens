@@ -32,10 +32,6 @@
     "type": "borderRadius"
   },
   "radius2": {
-    "value": "4px",
-    "type": "borderRadius"
-  },
-  "radius3": {
     "value": "0px",
     "type": "borderRadius"
   },
