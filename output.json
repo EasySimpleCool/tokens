@@ -1,8 +1,4 @@
 {
-  "app1": {
-    "value": "#0052ff",
-    "type": "color"
-  },
   "display1": {
     "value": "80px",
     "type": "fontSizes"
